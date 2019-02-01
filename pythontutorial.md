@@ -56,6 +56,6 @@ plt.savefig('linear')
 
 plt.show()
 ```
-![plot](
-        http://github.com/AnyaSherman/4530-aks224//blob/master/figure.png)
-      )
+Figure 1: Tree growth as a function of precipitation
+![linear](https://raw.githubusercontent.com/aks224/4530-aks224/master/linear.png)
+$$y=2x+3.5$$
