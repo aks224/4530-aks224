@@ -50,8 +50,12 @@ ax.legend(['Measured', 'Linear regression'])
 ax.grid(True)
 # Here I save the file to my local harddrive. You will need to change this to work on your computer.
 # We don't need the file type (png) here.
-plt.savefig('C:/User')
+
+plt.savefig('~/Documents/github/4530-aks224')
+
 
 plt.show()
 ```
-![plot]()
+![plot](
+        http://github.com/AnyaSherman/4530-aks224//blob/master/figure.png)
+      )
